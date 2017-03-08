@@ -1,0 +1,10 @@
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\obj\Debug\CaptivePortal.BusinessModule.csprojResolveAssemblyReference.cache
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\bin\Debug\CaptivePortal.BusinessModule.dll
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\bin\Debug\CaptivePortal.BusinessModule.pdb
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\bin\Debug\CaptivePortal.DataAccessModule.dll
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\bin\Debug\CaptivePortal.DTO.dll
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\bin\Debug\MySql.Data.dll
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\bin\Debug\CaptivePortal.DataAccessModule.pdb
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\bin\Debug\CaptivePortal.DTO.pdb
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\obj\Debug\CaptivePortal.BusinessModule.dll
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.BusinessModule\obj\Debug\CaptivePortal.BusinessModule.pdb

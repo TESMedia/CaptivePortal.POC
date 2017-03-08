@@ -1,0 +1,5 @@
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.DTO\bin\Debug\CaptivePortal.DTO.dll
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.DTO\bin\Debug\CaptivePortal.DTO.pdb
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.DTO\obj\Debug\CaptivePortal.DTO.dll
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.DTO\obj\Debug\CaptivePortal.DTO.pdb
+C:\WORK\Projects\CaptivePortal\CaptivePortal\CaptivePortal.DTO\obj\Debug\CaptivePortal.DTO.csprojResolveAssemblyReference.cache
